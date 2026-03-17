@@ -1,8 +1,9 @@
 #!/bin/sh
 
-FILES=".zshrc
-       .gitconfig
-       .vimrc"
+FILES=".gitconfig
+       .vimrc
+       .zprofile
+       .zshrc"
 
 DIRS=".vim/after/ftplugin
       .vim/after/syntax"
